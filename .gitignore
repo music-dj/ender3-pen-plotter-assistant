@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+.venv/
+venv/
+ENV/
+env/
+.idea/
+.vscode/
+*.tmp
+*.gcode
+test_output.svg
+test_sketch.png
